@@ -19,7 +19,7 @@
   },
   "mainHero": {
     "title": "Comidas rápidas ",
-    "subtitle": "susy",
+    "subtitle": "Susi",
     "description": "El placer de encontrar la diferencia ",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "En Comidas Rápidas Susy, nos especializamos en ofrecer una variedad de alimentos rápidos y deliciosos que hacen la diferencia. Desde panes frescos hasta empanadas y pasteles, cada producto es elaborado pensando en la satisfacción de nuestros clientes.",
+        "description": "En Comidas Rápidas Susi, nos especializamos en ofrecer una variedad de alimentos rápidos y deliciosos que hacen la diferencia. Desde panes frescos hasta empanadas y pasteles, cada producto es elaborado pensando en la satisfacción de nuestros clientes.",
         "img": "/assets/images/2.png"
       },
       {
